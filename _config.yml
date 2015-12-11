@@ -1,6 +1,6 @@
 name: quickfIXd
 favicon: null
-layout_spectrum: 0.756949384463951
+layout_spectrum: 1
 typography_spectrum: 0.6712900102138519
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#f5f5f5'
+    - '#cac4b8'
+    - '#001b8b'
+    - '#2f354b'
+    - '#87a4a6'
   brandStrength: 0.5088007627055049
-  lightness: 0.289713071892038
-  saturation: 0.8915292723104358
-  rhythmicContrast: 0.9220071360468864
+  lightness: 0.25
+  saturation: 0.9375
+  rhythmicContrast: 0
 purpose: []
