@@ -4,14 +4,14 @@
         <description><![CDATA[quickfIXd]]></description>
         <link>https://thegrid.ai/quickfixd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 23:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 23:11:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quickfixd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello world!]]></title>
             <description><![CDATA[<article><h1>Hello world!</h1><p>Welcome to quickfIXd.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6624e6f5fdf6b967282806eb6fb0532f797de356.jpg"></article>]]></description>
             <link>https://thegrid.ai/quickfixd/hello-world/index.html</link>
             <guid isPermaLink="false">0df602b9-0723-4182-81df-718bc8f8a43a</guid>
-            <pubDate>Fri, 11 Dec 2015 23:13:10 GMT</pubDate>
+            <pubDate>Fri, 11 Dec 2015 23:11:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
