@@ -1,31 +1,32 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: First post
-datePublished: '2015-12-11T23:13:10.801Z'
-dateModified: '2015-12-11T23:13:07.352Z'
+datePublished: '2015-12-11T23:17:22.938Z'
+dateModified: '2015-12-11T23:17:19.292Z'
 title: 'Hello world!'
 author: []
+sourcePath: _posts/2015-12-11-hello-world.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-11-hello-world.md
-published: true
-url: hello-world/index.html
-_type: Article
+_type: Blurb
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6624e6f5fdf6b967282806eb6fb0532f797de356.jpg)
+
 Welcome to quickfIXd.
 
 A site about simple interaction design fixes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/336a4b3a-e4b4-4c9d-81a7-af028ca8b9d9.jpg)
 
 Take the Jodel app down there. The "+" button placement is so wrong it is just crazy how they missed it in testing.
 
