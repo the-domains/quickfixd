@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: First post
-datePublished: '2015-12-11T23:17:22.938Z'
-dateModified: '2015-12-11T23:17:19.292Z'
+datePublished: '2015-12-11T23:18:37.757Z'
+dateModified: '2015-12-11T23:18:33.372Z'
 title: 'Hello world!'
 author: []
 sourcePath: _posts/2015-12-11-hello-world.md
@@ -22,8 +22,6 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6624e6f5fdf6b967282806eb6fb0532f797de356.jpg)
-
 Welcome to quickfIXd.
 
 A site about simple interaction design fixes.
