@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: First post
-datePublished: '2015-12-11T23:10:38.166Z'
-dateModified: '2015-12-11T23:09:16.463Z'
+datePublished: '2015-12-11T23:11:14.134Z'
+dateModified: '2015-12-11T23:11:06.522Z'
 title: 'Hello world!'
 author: []
 authors: []
