@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[quickfIXd]]></title>
+        <description><![CDATA[quickfIXd]]></description>
+        <link>https://thegrid.ai/quickfixd/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 00:43:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quickfixd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/quickfixd/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">7dcac278-a344-4393-8e8d-ea1256eff64d</guid>
+            <pubDate>Sat, 12 Dec 2015 00:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/368e8623-ce5c-4f56-a5fb-8a6594fc2b9b.jpg">]]></description>
+            <link>https://thegrid.ai/quickfixd/a836792d-ae7f-448a-9d6e-d1584fb86e5c/index.html</link>
+            <guid isPermaLink="false">a836792d-ae7f-448a-9d6e-d1584fb86e5c</guid>
+            <pubDate>Fri, 11 Dec 2015 23:21:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
